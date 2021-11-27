@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAIN-PIXEL
-- 👀 I’m interested in ...web design 
-- 🌱 I’m currently learning ...css
-- 💞️ I’m looking to collaborate on ...creating website
+- 👀 I’m interested in ...app development
+- 🌱 I’m currently learning ...asp.net
+- 💞️ I’m looking to collaborate on ...creating a system
 - 📫 How to reach me ...email
 
 <!---
